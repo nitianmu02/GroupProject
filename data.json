@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "img_name": "wallpaper1",
+        "src": "http://wallpaper.com.jpg",
+        "tag_name": ["food", "car", "history"]
+    },
+    {
+        "id": 2,
+        "img_name": "wallpaper2",
+        "src": "http://wallpaper.com.png",
+        "tag_name": ["anime", "art"]
+    }
+]
